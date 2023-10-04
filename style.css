@@ -1,0 +1,45 @@
+.bottom-left {
+    position: absolute;
+    bottom: 650px;
+    left: 116px;
+    border: none;
+    background-color: none
+    margin:0;
+    font-size:80px;
+    color:white
+    
+  }
+
+  .idea {
+    position: absolute;
+    bottom: 418px;
+    left: 116px;
+    border: none;
+    background-color: gray;
+    margin:0;
+    font-size:40px;
+    
+  }
+
+
+  .responsive {
+    width: 100%;
+    height: auto;
+  }
+
+  body{
+     margin: 0;
+     position: absolute;
+     margin-bottom: 10vh;
+     height:100vh
+  }
+
+
+  .bolo
+   {
+    margin: 0;
+    padding: 1px;
+    background-color: grey;
+    text-align: center;
+    font-size: 15px;
+  }
